@@ -13,3 +13,7 @@ results
 
 npm-debug.log
 node_modules
+
+pres/css
+pres/index.html
+pres/js
