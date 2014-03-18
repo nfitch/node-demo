@@ -1,5 +1,6 @@
-## Manta <3 node.js
-### Nate Fitch
+# Manta <3 node.js
+## Nate Fitch
+### Joyent (+)
 
 ---
 ## Intro
@@ -76,7 +77,7 @@
 ---
 ## MDB (Modular Debugger)
 - `--abort-on-uncaught-exception`
-- Take cores from running processes
+- Take cores from running processes (`gcore`)
 - Common commands:
     - `::jsstack`
     - `::jsframe`
