@@ -103,10 +103,11 @@
     - https://github.com/joyent/node/issues/6297
 
 ---
-## Helpful Links
+## Helpful Blogs/Tutorials
 
 - http://www.joyent.com/developers/node/debug
 - http://www.joyent.com/blog/mdb-and-node-js
+- http://www.joyent.com/developers/node/debug/mdb
 - http://www.joyent.com/blog/mdb-and-linux
 - http://blog.nodejs.org/2012/03/28/service-logging-in-json-with-bunyan/
 - http://mcavage.me/blog/2013/07/19/using-node-modules-in-manta/
