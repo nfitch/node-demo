@@ -1,0 +1,19 @@
+{
+    "name": "node-demo",
+    "description": "Demo node app.",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/nfitch/node-demo.git"
+    },
+    "author": "Nate Fitch",
+    "dependencies": {
+        "bunyan": "0.22.1",
+        "restify": "2.6.3"
+    },
+    "devDependencies": {
+    },
+    "engines": {
+        "node": ">=0.10.21"
+    }
+}
