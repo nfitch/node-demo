@@ -1,6 +1,10 @@
 node-demo
 =========
 
+# Presentation
+
+(Click here)[blob/master/pres/pres.md]
+
 # Demo Instructions
 
 ## Setup
