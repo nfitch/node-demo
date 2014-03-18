@@ -3,7 +3,7 @@ node-demo
 
 # Presentation
 
-[Click here](blob/master/pres/pres.md)
+[Click here](pres/pres.md)
 
 # Demo Instructions
 
