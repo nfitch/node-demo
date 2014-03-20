@@ -92,7 +92,7 @@ Note that some garbage objects may turn up.  Should be recognizable.
 # Generating the presentation
 
 The presentation is generated via
-(mdpress)[https://github.com/egonSchiele/mdpress].  So:
+[mdpress](https://github.com/egonSchiele/mdpress).  So:
 
 ```
 sudo gem install mdpress
