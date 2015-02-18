@@ -5,8 +5,8 @@
 ---
 ## Intro
 
-1. Software Engineer at Joyent
-1. Came to Joyent to work on Manta
+1. Was Software Engineer at Joyent
+1. Went to Joyent to work on Manta
     1. manta-compute-bin
     1. Object Garbage Collection
     1. Object Audit
